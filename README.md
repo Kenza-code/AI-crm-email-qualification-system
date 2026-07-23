@@ -65,7 +65,27 @@ Quelques exemples d'utilisation :
 
 ## Aperçu du projet
 
-*(Les captures d'écran seront ajoutées ici.)*
+### Architecture générale
+
+![Architecture](images/architecture-systeme.png)
+
+---
+
+### Gestion des contacts dans Airtable
+
+![CRM Airtable](images/crm-airtable.png)
+
+---
+
+### Réponse automatique générée par l'IA
+
+![Réponse automatique](images/reponse-automatique.png)
+
+---
+
+### Exécution du workflow Make
+
+![Workflow](images/demonstration-workflow.png)
 
 ---
 
