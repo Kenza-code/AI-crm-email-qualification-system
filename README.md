@@ -93,7 +93,9 @@ Quelques exemples d'utilisation :
 
 Cette vidéo présente le fonctionnement de la solution CRM intelligente : réception d'un e-mail, analyse par IA, qualification du prospect, mise à jour du CRM Airtable et envoi automatique d'une réponse.
 
-▶️ **[Voir la démonstration](Démo/demo-Agent-IA-intelligent-qualification-emails-RA.mp4)**
+[![Voir la démonstration](Démo/capture-crm.png)](Démo/demo-Agent-IA-intelligent-qualification-emails-RA.mp4)
+
+**▶️ Cliquez pour ouvrir la vidéo de démonstration.**
 
 ---
 
