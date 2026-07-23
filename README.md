@@ -67,25 +67,25 @@ Quelques exemples d'utilisation :
 
 ### Architecture générale
 
-![Architecture](images/architecture-systeme.png)
+![Architecture](images/scénario-make-crm-ia-qualifications-emails.png)
 
 ---
 
 ### Gestion des contacts dans Airtable
 
-![CRM Airtable](images/crm-airtable.png)
+![CRM Airtable](images/CRM-intelligent-airtable.png)
 
 ---
 
 ### Réponse automatique générée par l'IA
 
-![Réponse automatique](images/reponse-automatique.png)
+![Réponse automatique](images/réponse-auto-reçue.png)
 
 ---
 
 ### Exécution du workflow Make
 
-![Workflow](images/demonstration-workflow.png)
+![Workflow](images/run-scénario-make.png)
 
 ---
 
